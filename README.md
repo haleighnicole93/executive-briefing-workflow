@@ -78,3 +78,9 @@ Rather than repeatedly searching through email, Teams, and the calendar, I could
 This repository documents the workflow and methodology only.
 
 Any examples included here are fictional or recreated for portfolio purposes. No confidential employer, executive, employee, financial, board, client, email, Teams, or calendar information is included.
+
+## Project Files
+
+- [Sample Input](sample-input.md) — fictional email, Teams, and calendar information used to demonstrate the workflow
+- [Sample Executive Morning Brief](sample-brief.md) — example of the structured briefing output
+- [Workflow Documentation](workflow.md) — step-by-step explanation of how the Copilot workflow was designed and scheduled
