@@ -1,6 +1,6 @@
 # Executive Morning Brief Workflow
 
-This page documents the process behind the Executive Morning Brief and how I used Microsoft Copilot to turn recurring executive-prep work into a scheduled workflow.
+This page documents the process behind the Executive Morning Brief and how I used Microsoft Copilot to turn recurring executive preparation work into a scheduled workflow.
 
 ## 1. Identify the Information Sources
 
@@ -40,8 +40,8 @@ The output was designed to be scanned quickly before my daily meeting with the C
 The main sections included:
 
 - Emails Requiring Attention
-- Today's Meetings & Calls
-- Tasks & Deadlines
+- Today's Meetings and Calls
+- Tasks and Deadlines
 
 The exact wording and structure could be adjusted as I refined the prompt.
 
