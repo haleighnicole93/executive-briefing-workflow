@@ -1,6 +1,6 @@
 # Executive Morning Brief Workflow
 
-A real-world example of how I used Microsoft Copilot to reduce manual executive-prep work and create a consistent morning briefing workflow.
+A real-world example of how I used Microsoft Copilot to reduce manual executive preparation work and create a consistent morning briefing workflow.
 
 ## The Problem
 
@@ -28,17 +28,20 @@ The prompt instructed Copilot to review:
 The resulting brief included:
 
 ### Emails Requiring Attention
+
 - Sender
 - Subject
 - Whether a response appeared to be needed
 - A short draft response for urgent items when a response had not already been sent
 
 ### Today's Schedule
+
 - Meetings and calls
 - Start times
 - Relevant calendar context
 
-### Tasks & Deadlines
+### Tasks and Deadlines
+
 - Tasks mentioned in recent emails
 - Deadlines mentioned in emails or calendar invitations
 - Follow-up items that could affect the day ahead
@@ -73,14 +76,14 @@ The goal was simple: spend less time gathering information and more time walking
 
 Rather than repeatedly searching through email, Teams, and the calendar, I could start the day with a structured view of the items most likely to matter.
 
+## Project Files
+
+- [Sample Input](sample-input.md) - Fictional email, Teams, and calendar information used to demonstrate the workflow
+- [Sample Executive Morning Brief](sample-brief.md) - Example of the structured briefing output
+- [Workflow Documentation](workflow.md) - Step-by-step explanation of how the Copilot workflow was designed and scheduled
+
 ## Confidentiality
 
 This repository documents the workflow and methodology only.
 
 Any examples included here are fictional or recreated for portfolio purposes. No confidential employer, executive, employee, financial, board, client, email, Teams, or calendar information is included.
-
-## Project Files
-
-- [Sample Input](sample-input.md) — fictional email, Teams, and calendar information used to demonstrate the workflow
-- [Sample Executive Morning Brief](sample-brief.md) — example of the structured briefing output
-- [Workflow Documentation](workflow.md) — step-by-step explanation of how the Copilot workflow was designed and scheduled
